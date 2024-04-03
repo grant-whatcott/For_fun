@@ -1,0 +1,14 @@
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\bin\Debug\net8.0\For_fun.exe
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\bin\Debug\net8.0\For_fun.deps.json
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\bin\Debug\net8.0\For_fun.runtimeconfig.json
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\bin\Debug\net8.0\For_fun.dll
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\bin\Debug\net8.0\For_fun.pdb
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\obj\Debug\net8.0\For_fun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\obj\Debug\net8.0\For_fun.AssemblyInfoInputs.cache
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\obj\Debug\net8.0\For_fun.AssemblyInfo.cs
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\obj\Debug\net8.0\For_fun.csproj.CoreCompileInputs.cache
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\obj\Debug\net8.0\For_fun.dll
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\obj\Debug\net8.0\refint\For_fun.dll
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\obj\Debug\net8.0\For_fun.pdb
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\obj\Debug\net8.0\For_fun.genruntimeconfig.cache
+C:\Users\grant.whatcott\1400_gen\For_fun\For_fun\obj\Debug\net8.0\ref\For_fun.dll
